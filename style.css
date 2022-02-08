@@ -10,6 +10,7 @@ section{
     align-content: center;
     margin: auto;
     margin-top: 9rem;
+    height: 100%;
 }
 section > img{
     width: 250px;
